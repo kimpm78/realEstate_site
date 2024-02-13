@@ -14,4 +14,3 @@ npm start
 
 http://localhost:3000 で自動に開けます。
 開かない場合は、http://localhost:3000 を入力してください。
-# realEstate_site
