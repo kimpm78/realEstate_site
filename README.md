@@ -1,6 +1,6 @@
 # L.E.O.T
 
-Look：見ろ
+Look：見る
 estate：地所
 Technical:テクニカル
 
